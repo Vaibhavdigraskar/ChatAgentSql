@@ -6,3 +6,4 @@ pydantic==1.10.2
 openai
 SQLAlchemy==1.4.32
 pyodbc==4.0.32
+werkzeug==2.2.2
