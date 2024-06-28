@@ -7,3 +7,4 @@ openai
 SQLAlchemy==1.4.32
 pyodbc==4.0.32
 werkzeug==2.2.2
+python-dotenv==1.0.0
